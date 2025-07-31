@@ -34,3 +34,21 @@ MemeCaster lets you send meme-worthy, thought-provoking casts into the Farcaster
 git clone https://github.com/janr33/memecaster.git
 cd memecaster
 npm install
+NEYNAR_API_KEY=your_api_key
+SIGNER_UUID=your_signer_uuid
+🌀 Mr.Dimplecute: Cyberpunk Meme Lab
+
+Welcome to Mr.Dimplecute, your portal to meme-worthy creations, futuristic art vibes, and decentralized gallery experiments.
+
+🛠 Built With
+
+- 🧠 Node.js 18 (inside Codespaces devcontainer)
+- ⚙️ Farcaster integration (soon to be powered with GitHub Actions)
+- 🎨 Cyber-luxury visual concepts
+- 🛰 GitHub Codespaces – cloud-native and mobile-ready
+
+🔮 Usage
+
+`bash
+npm install
+npm run dev
